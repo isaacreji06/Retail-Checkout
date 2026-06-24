@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "aqua"
+    },
+    {
+      "id": 1,
+      "name": "chitato"
+    },
+    {
+      "id": 2,
+      "name": "indomie"
+    },
+    {
+      "id": 3,
+      "name": "pepsodent"
+    },
+    {
+      "id": 4,
+      "name": "shampoo"
+    },
+    {
+      "id": 5,
+      "name": "tissue"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

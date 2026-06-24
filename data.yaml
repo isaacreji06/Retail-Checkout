@@ -1,0 +1,11 @@
+path: /content/data
+train: train/images
+val: val/images
+nc: 6
+names:
+- aqua
+- chitato
+- indomie
+- pepsodent
+- shampoo
+- tissue
